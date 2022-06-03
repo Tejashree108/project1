@@ -1,2 +1,5 @@
 This is a text file. 
-Changes fromk developer 2
+Changes fromk developer 2.
+
+
+Changes for feature 1
